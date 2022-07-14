@@ -1,5 +1,7 @@
 # Best practices for using an IDE with Databricks
 
+This repository is originally forked from https://github.com/databricks/ide-best-practices and customized for VSCode.
+
 This repository is a companion for the example article "Use an IDE with Databricks" for [AWS](https://docs.databricks.com/dev-tools/ide-how-to.html), [Azure](https://docs.microsoft.com/azure/databricks/dev-tools/ide-how-to), and [GCP](https://docs.gcp.databricks.com/dev-tools/ide-how-to.html). 
 
 This example features the use of Visual Studio Code, Python, `dbx` by Databricks Labs (for [AWS](https://docs.databricks.com/dev-tools/dbx.html), [Azure](https://docs.microsoft.com/azure/databricks/dev-tools/dbx), and [GCP](https://docs.gcp.databricks.com/dev-tools/dbx.html)), `pytest`, and GitHub Actions.
